@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/giripiyush2310" target="blank"><img src="https://img.shields.io/twitter/follow/giripiyush2310?logo=twitter&style=for-the-badge" alt="giripiyush2310" /></a> </p>
 
-- 🌱 I’m completed **MERN Stack**
+- 🌱 **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://piyush-giri23.github.io/MY_PORTFOLIO/](https://piyush-giri23.github.io/MY_PORTFOLIO/)
 
