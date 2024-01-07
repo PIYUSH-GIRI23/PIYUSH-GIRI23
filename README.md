@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://piyush-giri23.github.io/MY_PORTFOLIO/](https://piyush-giri23.github.io/MY_PORTFOLIO/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Typescript, Python, Bootstrap, Tailwind, MERN Stack, C/C++, DSA**
+- 💬 Ask me about **Mern Stack , C/C++ , DSA**
 
 - 📫 How to reach me **piyush.giri232003@gmail.com**
 
