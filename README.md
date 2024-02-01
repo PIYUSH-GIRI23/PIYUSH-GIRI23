@@ -12,11 +12,11 @@
 
 <p align="left"> <a href="https://twitter.com/giripiyush2310" target="blank"><img src="https://img.shields.io/twitter/follow/giripiyush2310?logo=twitter&style=for-the-badge" alt="giripiyush2310" /></a> </p>
 
-- 🌱 **MERN Stack | Full Stack**
+- 🌱 **MERN Stack | Full Stack | Next Js**
 
 - 👨‍💻 All of my projects are available at [https://piyush-giri23.github.io/MY_PORTFOLIO/](https://piyush-giri23.github.io/MY_PORTFOLIO/)
 
-- 💬 Ask me about **Mern Stack , C/C++ , DSA**
+- 💬 Ask me about **Mern Stack , C/C++ , DSA , Next Js**
 
 - 📫 How to reach me **piyush.giri232003@gmail.com**
 
@@ -40,7 +40,9 @@
 
 
 <h3 align="left">Web Frameworks :</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> &nbsp;<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> &nbsp;<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+</p>
 
 <h3 align="left">Databases :</h3>
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
