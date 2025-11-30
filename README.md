@@ -14,21 +14,18 @@
 
 - 🌱 **MERN Stack | Full Stack | Next Js**
 
-- 👨‍💻 All of my projects are available at [https://piyush-giri23.github.io/MY_PORTFOLIO/](https://piyush-giri23.github.io/MY_PORTFOLIO/)
+- 👨‍💻 All of my projects are available at [https://www.piyushx.tech](https://www.piyushx.tech)
 
 - 💬 Ask me about **Mern Stack , C/C++ , DSA , Next Js**
 
-- 📫 How to reach me **piyush.giri232003@gmail.com**
+- 📫 How to reach me **giri.piyush2003@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/giripiyush2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giripiyush2310" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/piyush-giri-031b71254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-giri-031b71254" height="30" width="40" /></a>
-<a href="https://instagram.com/piyush_giri23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyush_giri23" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/piyushgiri23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="piyushgiri23" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/piyushgiri23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="piyushgiri23" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pg23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pg23" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Programming Languages :</h3>
