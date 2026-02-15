@@ -9,7 +9,7 @@ Building scalable apps • Solving real problems • Learning everyday
 <a href="https://twitter.com/giripiyush2310" target="blank">
 <img src="https://img.shields.io/twitter/follow/GIRIPIYUSH2310?logo=twitter&style=for-the-badge" />&nbsp;
 </a>
-<img src="https://komarev.com/ghpvc/?username=PIYUSH-GIRI23&label=Profile%20views&color=blueviolet&style=flat&base=800" alt="Piyush Giri" height="28px/>
+<img src="https://komarev.com/ghpvc/?username=PIYUSH-GIRI23&label=Profile%20views&color=blueviolet&style=flat&base=800" alt="Piyush Giri" height="28px"/>
 </p>
 
 ---
