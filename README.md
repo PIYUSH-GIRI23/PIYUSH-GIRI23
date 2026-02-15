@@ -1,55 +1,72 @@
-<h1 align="center">Hi 👋, I'm <b>PIYUSH GIRI</b></h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm <b>Piyush Giri</b></h1>
+<h3 align="center">🚀 Passionate Full Stack Developer</h3>
 
-<br>
-<table >
-  <tr >
-    <td>You are visitor</td>
-    <td align="center"><img align="center" src="https://profile-counter.glitch.me/PIYUSH-GIRI23/count.svg" alt="" /></td>
-  </tr>
-</table>
-<br>
-
-<p align="left"> <a href="https://twitter.com/giripiyush2310" target="blank"><img src="https://img.shields.io/twitter/follow/giripiyush2310?logo=twitter&style=for-the-badge" alt="giripiyush2310" /></a> </p>
-
-- 🌱 **MERN Stack | Full Stack | Next Js**
-
-- 👨‍💻 All of my projects are available at [https://www.piyushx.tech](https://www.piyushx.tech)
-
-- 💬 Ask me about **Mern Stack , C/C++ , DSA , Next Js**
-
-- 📫 How to reach me **giri.piyush2003@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/giripiyush2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giripiyush2310" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/piyush-giri-031b71254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-giri-031b71254" height="30" width="40" /></a>
-
+<p align="center">
+Building scalable apps • Solving real problems • Learning everyday
 </p>
 
-<h3 align="left">Programming Languages :</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp; <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp; <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Frontend Technologies :</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
-
-
-<h3 align="left">Web Frameworks :</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> &nbsp;<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+<p align="center">
+<a href="https://twitter.com/giripiyush2310" target="blank">
+<img src="https://img.shields.io/twitter/follow/GIRIPIYUSH2310?logo=twitter&style=for-the-badge" />
+</a>
 </p>
 
-<h3 align="left">Databases :</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+
+- 🌱 MERN Stack | Full Stack | Next.js  
+- 🚀 Currently exploring **Gen AI and Devops**  
+- 💬 Ask me about **Web Development & System Design**  
+- 🌐 Portfolio: https://www.piyushx.tech  
+- 📫 Reach me: **giri.piyush2003@gmail.com**
+
+---
+
+### 🤝 Connect With Me
+
+<p>
+<a href="https://twitter.com/GIRIPIYUSH2310" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/piyush-giri-031b71254/" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/piyushgiri23" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+| Category        | Technologies |
+|----------------|-------------|
+| **Languages**  | C, C++, Python, JavaScript, TypeScript, HTML5, CSS3 |
+| **Databases**  | MongoDB, MySQL, Redis |
+| **Web Tech**   | React.js, Next.js, Node.js, Express.js, Redux, Tailwind CSS, Bootstrap, Firebase, RabbitMQ |
+| **Dev Tools**  | Git, Docker, Linux, Postman |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=PIYUSH-GIRI23&theme=tokyonight" />
+</p>
 
 
-<h3 align="left">Tools :</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
 
-<br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-giri23&" alt="piyush-giri23" /></p>
+## 📈 Contribution Graph
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush-giri23&show_icons=true&locale=en&layout=compact" alt="piyush-giri23" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyush-giri23&show_icons=true&locale=en" alt="piyush-giri23" /></p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PIYUSH-GIRI23&theme=tokyo-night" />
+</p>
+
+---
+
+<p align="center">
+✨ Always building. Always learning. Always shipping.
+</p>
