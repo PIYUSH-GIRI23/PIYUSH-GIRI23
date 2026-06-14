@@ -20,7 +20,7 @@ Building scalable apps • Solving real problems • Learning everyday
 - 🚀 Currently exploring **Gen AI and Devops**  
 - 💬 Ask me about **Web Development & System Design**  
 - 🌐 Portfolio: https://www.piyushx.tech  
-- 📫 Reach me: **giri.piyush2003@gmail.com**
+- 📫 Reach me: **piy.gr23@gmail.com**
 
 ---
 
